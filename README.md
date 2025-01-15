@@ -1,0 +1,1 @@
+This repository demonstrates a common yet often overlooked error in Java: the silent failure due to an ArithmeticException.  The `UncommonBug.java` file contains code that attempts division by zero, causing the program to terminate abruptly. The solution, `UncommonBugSolution.java`, showcases robust error handling to prevent this.
